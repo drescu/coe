@@ -42,7 +42,7 @@ require "header.php";
           </div>
           
           <?php
-          require "evento_registro.php";
+            require "evento_registro.php";
           ?>
           
           <!--Fin centro -->
